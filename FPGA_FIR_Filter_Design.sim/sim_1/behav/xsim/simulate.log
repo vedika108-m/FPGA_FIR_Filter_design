@@ -1,0 +1,22 @@
+Time resolution is 1 ps
+ERROR at 0 Expected=x Got=0
+ERROR at 1 Expected=x Got=0
+ERROR at 2 Expected=x Got=2
+ERROR at 3 Expected=18 Got=8
+ERROR at 4 Expected=30 Got=18
+ERROR at 5 Expected=42 Got=30
+ERROR at 6 Expected=54 Got=42
+ERROR at 7 Expected=66 Got=54
+ERROR at 8 Expected=78 Got=66
+ERROR at 9 Expected=90 Got=78
+ERROR at 10 Expected=102 Got=90
+ERROR at 11 Expected=114 Got=102
+ERROR at 12 Expected=126 Got=114
+ERROR at 13 Expected=138 Got=126
+ERROR at 14 Expected=150 Got=138
+ERROR at 15 Expected=162 Got=150
+ERROR at 16 Expected=174 Got=162
+ERROR at 17 Expected=186 Got=174
+ERROR at 18 Expected=198 Got=186
+ERROR at 19 Expected=210 Got=198
+$finish called at time : 216 ns : File "C:/Users/vedik/OneDrive/Desktop/vlsi projects/project_2/project_2.srcs/sim_1/new/fir_tb.v" Line 66

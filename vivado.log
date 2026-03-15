@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon Mar 16 00:55:07 2026
+# Process ID         : 5436
+# Current directory  : C:/Users/vedik/OneDrive/Desktop/vlsi projects/FPGA_FIR_Filter_Design
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent10352 C:\Users\vedik\OneDrive\Desktop\vlsi projects\FPGA_FIR_Filter_Design\FPGA_FIR_Filter_Design.xpr
+# Log file           : C:/Users/vedik/OneDrive/Desktop/vlsi projects/FPGA_FIR_Filter_Design/vivado.log
+# Journal file       : C:/Users/vedik/OneDrive/Desktop/vlsi projects/FPGA_FIR_Filter_Design\vivado.jou
+# Running On         : Vedulenovo
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+# CPU Frequency      : 3187 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8362 MB
+# Swap memory        : 7493 MB
+# Total Virtual      : 15856 MB
+# Available Virtual  : 4329 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/vedik/OneDrive/Desktop/vlsi projects/FPGA_FIR_Filter_Design/FPGA_FIR_Filter_Design.xpr}
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu208ld:part0:2.0 available at C:/Xilinx/Downloads/Vivado/2024.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu208ld/production/2.0/board.xml as part xczu58dr-fsvg1517-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu216ld:part0:2.0 available at C:/Xilinx/Downloads/Vivado/2024.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu216ld/production/2.0/board.xml as part xczu59dr-ffvf1760-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670ld:part0:1.0 available at C:/Xilinx/Downloads/Vivado/2024.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670ld/1.0/board.xml as part xczu57dr-fsve1156-2-i specified in board_part file is either invalid or not available
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/vedik/OneDrive/Desktop/vlsi projects/FPGA_FIR_Filter_Design/FPGA_FIR_Filter_Design.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Downloads/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:30 ; elapsed = 00:00:16 . Memory (MB): peak = 1589.703 ; gain = 349.078
+update_compile_order -fileset sources_1
